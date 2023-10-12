@@ -1,6 +1,31 @@
+* {
+    box-sizing: border-box;
+    font-size: inherit;
+    font: inherit;
+    color: brown;
+    text-decoration: none;
+}
+
 #container {
-    border: 1px solid black;
     display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(3, 1fr);
     height: 100vh;
-    grid-template-rows: auto 1fr auto;
+    column-gap: 12px;
+    align-items: center;
+}
+
+.item-1 {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-area: 1 / span 12;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-column: 2 / 7;
+  gap: 20px;
+  font-size: 30px;
 }
