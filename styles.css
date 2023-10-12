@@ -40,7 +40,8 @@ body {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     background-image: url(/Images/autoRepairImage.jpg);
-    background-size: cover;
+    background-repeat: no-repeat ;
+    background-size: auto;
     grid-area: hero;
 }
 
