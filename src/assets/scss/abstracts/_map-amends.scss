@@ -1,0 +1,12 @@
+// Create your own map
+$custom-colors: (
+  "Blue": #03346E,
+  "Aqua": #6EACDA,
+  "Cream": #E2E2B6,
+  "Black": #021526,
+
+);
+
+// Merge the maps
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
