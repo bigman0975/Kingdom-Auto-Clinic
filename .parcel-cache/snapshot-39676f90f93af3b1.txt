@@ -2635,7 +2635,7 @@
 100/home/jordan-huff/Documents/SceptreAutomotive-1/node_modules/bootstrap/js/src/dom/selector-engine.js1722115696643704843 0
 70/home/jordan-huff/Documents/SceptreAutomotive-1/src/assets/scss/layout1722216205135641338 1
 65/home/jordan-huff/Documents/SceptreAutomotive-1/package-lock.json1722137864622769788 0
-89/home/jordan-huff/Documents/SceptreAutomotive-1/src/assets/scss/abstracts/_variables.scss1722144333999245283 0
+89/home/jordan-huff/Documents/SceptreAutomotive-1/src/assets/scss/abstracts/_variables.scss1722221380301898113 0
 120/home/jordan-huff/Documents/SceptreAutomotive-1/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_copy.c1722115641691815472 0
 118/home/jordan-huff/Documents/SceptreAutomotive-1/node_modules/csso/node_modules/css-tree/cjs/generator/token-before.cjs1722115643386780842 0
 84/home/jordan-huff/Documents/SceptreAutomotive-1/node_modules/lines-and-columns/build1722115641073828104 1
