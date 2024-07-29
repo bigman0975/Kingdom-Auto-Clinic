@@ -1,0 +1,14 @@
+$new-bg-color: #03346e;
+$new-active-color: gray;
+
+$nav-link-color: $new-bg-color;
+$nav-link-hover-color: $new-active-color;
+
+.nav-link {
+    &.active {
+        color: black !important;
+    }
+    font-family: Baskervville SC;
+    font-size: 2.0rem !important;
+    font-style: bold !important;
+}

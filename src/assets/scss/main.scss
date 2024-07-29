@@ -1,11 +1,13 @@
 
+
+
+
+
+@import "./components/navbar";
 @import "./abstracts/variables";
+@import "./abstracts/map-amends";
 
 @import "~bootstrap/scss/functions";
 @import "~bootstrap/scss/variables";
 @import "~bootstrap/scss/mixins";
-
-@import "./abstracts/map-amends";
-
-
 @import "~bootstrap/scss/bootstrap";
